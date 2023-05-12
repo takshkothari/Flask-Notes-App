@@ -1,3 +1,3 @@
 # Flask-Notes-App
  
- Locally hosted application that lets users create and delete notes
+ Locally hosted application that allows users to create and delete notes
